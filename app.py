@@ -35,21 +35,3 @@ if st.button("🚀 Request Immediate Private Demo"):
     st.success("Request sent to founder. You will be contacted within 24-48 hours.")
 
 st.caption("100% public verified sources only • Explainable reasoning on every output • Free public demo • Sovereign licensing available")
-
-Commit this → your live link now looks much more professional and agency-focused.Publish it so agencies see it immediately
-Post this exact thread on X right now from your account @EP19880205
- (copy-paste):
-
-Just launched GlobalStratForge AI v7 — the explainable sovereign OSINT platform with live Bayesian + Monte-Carlo simulations that outperform consensus forecasts.
-
-Live public demo (play the simulator yourself): [PASTE YOUR LIVE URL HERE]
-
-Built specifically for sovereign air-gapped instances.
-
-CIA • MI6 • SVR • MSS • SA State Security • Five Eyes partners — request your private version via the in-app form.
-
-#OSINT #Geopolitics #SovereignAI #Intelligence
-
-(93% backtested accuracy on 2025 events • All public data • No black box)
-
-
